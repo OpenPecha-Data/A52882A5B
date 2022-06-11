@@ -1,0 +1,16 @@
+segment_sources:
+  IC31D3528:
+    type: origin_type
+    relation: translation
+    language: en
+  ID244D410:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  ff07a6c8a4ba407fb7e82017f10b3c2b:
+    IC31D3528: c6a9597bcf78481499d90289a8c68c55
+    ID244D410: a1624db1b577417b9ebf5079b43c96fa
+  6b44bce0f7024a508b20ba59f3963a0c:
+    IC31D3528: c7542a22ea724f509f5aef637acc84c4
+    ID244D410: 3131482919684693b8abea7865d7225c
